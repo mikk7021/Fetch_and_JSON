@@ -1,0 +1,50 @@
+{
+    "users": [
+        {
+            "firstname":"Tor",
+            "lastname":"Frilund Poulsen",
+            "work_information": {
+                "position":"Biokemiker",
+                "company":"Novo Nordisk"
+            },
+            "interests" : ["Trekking", "Drinking", "Gaming"]
+        },
+        {
+            "firstname":"Louise",
+            "lastname":"Jaspersen",
+            "work_information": {
+                "position":"Pædagog",
+                "company":"Børnehaven Blomsten"
+            },
+            "interests" : ["Trekking", "Drinking", "Gaming"]
+            
+        },
+        {
+            "firstname":"Carlo",
+            "lastname":"Quist",
+            "work_information": {
+                "position":"Studerende",
+                "company":"Aalborg Universitet"
+            },
+            "interests" : ["Trekking", "Drinking", "Gaming"]
+        },
+        {
+            "firstname":"Katrine",
+            "lastname":"Boje Bendtsen",
+            "work_information": {
+                "position":"Sygeplejerske",
+                "company":"Sygehus Nord"
+            },
+            "interests" : ["Trekking", "Drinking", "Gaming"]
+        },
+        {
+            "firstname":"Vilmar",
+            "lastname":"Vernersen",
+            "work_information": {
+                "position":"Arbejdsløs",
+                "company": null
+            },
+            "interests" : ["Trekking", "Drinking", "Gaming"]
+        }
+    ]
+}

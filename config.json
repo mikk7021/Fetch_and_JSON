@@ -1,0 +1,10 @@
+{
+    "App Titel":"Unik titel",
+    "Version":1,
+    "Mode":[
+        "light",
+        "dark"
+    ],
+    "Antal visninger":30,
+    "Antal kolonner":2
+}
